@@ -49,7 +49,7 @@ day,order_name,customer_email,variant_sku,ordered_item_quantity,orders,gross_sal
 7/1/17,6000117053,munjal@att.net,8OAK_LAMP_GOLDSTUD,2,1,188,-37.6,0,150.4,0,0,150.4
 7/1/17,6000117279,tristan@me.com,,0,0,0,0,0,0,7.95,0,7.95
 7/1/17,6000117003,warrior@hotmail.com,,0,0,0,0,0,0,6.95,0,6.95
-7/1/17,6000117239,carmena@att.net,,0,0,0,0,0,0,6.95,0,6.95
+7/1/17,6000117239,hedwig@hotmail.com,,0,0,0,0,0,0,6.95,0,6.95
 7/1/17,6000117261,grady@live.com,KC6_TAPESTRY_YINYANG,1,1,19,-3.8,0,15.2,0,0,15.2
 7/1/17,6000117201,goldberg@yahoo.ca,CHY_HEADBOARD_GREY,1,1,160,0,0,160,0,0,160
 7/1/17,6000117095,cparis@yahoo.ca,,0,0,0,0,0,0,0,0,0
@@ -510,7 +510,7 @@ day,order_name,customer_email,variant_sku,ordered_item_quantity,orders,gross_sal
 7/1/17,6000117175,petersen@msn.com,KC6_DUV_TXL_GROMBRE,1,1,99,-19.8,0,79.2,0,0,79.2
 7/1/17,6000116951,greear@sbcglobal.net,KA_CLIPLIGHT_SET,1,1,18,-3.6,0,14.4,0,0.86,15.26
 7/1/17,6000116977,grady@sbcglobal.net,KA_CLIPLIGHT_SET,2,1,36,-7.2,0,28.8,0,0,28.8
-7/1/17,6000117239,carmena@att.net,NL_TAPESTRY_BETHECHANGE,1,1,32,-6.4,0,25.6,0,0,25.6
+7/1/17,6000117239,hedwig@hotmail.com,NL_TAPESTRY_BETHECHANGE,1,1,32,-6.4,0,25.6,0,0,25.6
 7/1/17,6000117281,daveewart@hotmail.com,THRO7_PLW_MONGOSQ_ZEN,1,1,36,-7.2,0,28.8,0,0,28.8
 7/1/17,6000116985,grady@me.com,THRO7_THW_HIBER_GRY,1,1,49,-9.8,0,39.2,0,0,39.2
 7/1/17,6000116967,mstrout@gmail.com,DFY7_SHEET_JERS_PUR_TXL,2,1,78,-15.6,0,62.4,0,0,62.4
